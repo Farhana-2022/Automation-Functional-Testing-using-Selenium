@@ -1,5 +1,7 @@
 The software that will determine the insurance rate of an individual based on their age, number 
-accidents and their driving experience. The application requires the following mandatory input fields:
+accidents and their driving experience. 
+
+The application requires the following mandatory input fields:
 • Name (separated by First Name and Last Name)
 • Address
 • City
